@@ -1,9 +1,7 @@
 # Fast Human Pose Estimation
 
 This is the repo for the fast human pose estimation.  
-Code will be made public soon.  
-
-We will implement a pytorch version of FPD
+We implemented a pytorch version of FPD
 [Code](https://github.com/ilovepose/fast-human-pose-estimation.pytorch)
 
 # Unoffical Implementations 
